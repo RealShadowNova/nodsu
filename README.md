@@ -4,4 +4,6 @@
 # nodsu
 A NPM package to interact with the osu! v2 API.
 
+[![NPM](https://nodei.co/npm/nodsu.png)](https://nodei.co/npm/<package>/)
+
 **Notice: This package is not currently ready for public use!**
