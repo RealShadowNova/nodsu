@@ -1,6 +1,6 @@
 {
   "name": "nodsu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Interface with the osu! API, made easy and reliable",
   "main": "build/index.js",
   "module": "build/index.es.js",
