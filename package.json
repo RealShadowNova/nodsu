@@ -9,7 +9,8 @@
     "build": "rollup -c",
     "format": "standard --fix",
     "lint": "standard",
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "generate": "typedoc --out docs src/index.ts --excludeInternal --hideGenerator"
   },
   "files": [
     "build"
@@ -49,6 +50,7 @@
     "rollup-plugin-typescript2": "^0.29.0",
     "standard": "^16.0.3",
     "ts-jest": "^26.5.0",
+    "typedoc": "^0.20.23",
     "typescript": "^4.1.3"
   },
   "dependencies": {}
